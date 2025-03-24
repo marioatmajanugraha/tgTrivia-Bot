@@ -10,6 +10,8 @@ Script ini digunakan untuk mengotomatiskan tugas, Hourly Trivia, dan Daily Missi
 - ⚡ Desain console log yang keren dengan warna, emoji, dan informasi detail
 - 🎮 Proses semua token sebelum menunggu iterasi berikutnya untuk efisiensi
 
+## 🎮 Link Garapan : [tgTrivia-Game](https://t.me/tgtrivia_bot/TriviaGame?startapp=8B6QLLB2)
+
 ## 🚀 Cara Penggunaan
 1. **Clone repository ini**
 ```
